@@ -1,0 +1,17 @@
+{
+    "name": "puritan-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ben Weiner"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/puritan-bower.git"
+    },
+    "description": "Puritan font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
